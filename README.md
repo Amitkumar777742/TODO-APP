@@ -14,6 +14,7 @@ Currently, two official plugins are available:
 # TODO App
 
 This is a simple TODO application built using modern web development technologies. It allows users to add, edit, delete, and mark tasks as completed. The app provides a user-friendly interface to manage daily tasks effectively.
+Here The Deploy Link:-https://todo-notes-daily.netlify.app/
 
 ## Features
 
